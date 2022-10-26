@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Marketing",
+        "class": "Saturday, Sunday, Monday",
+        "duration": "2 months",
+        "quizes": 120,
+        "assignments": 7,
+        "instructor": "Sayem Ahmed",
+        "description": "Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads and social media posts. Digital marketing is often compared to “traditional marketing” such as magazine ads, billboards, and direct mail. Oddly, television is usually lumped in with traditional marketing.",
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_digital_marketing.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Graphics Designing",
+        "class": "Tuesday, Wednesday, Thursday",
+        "duration": "3 months",
+        "quizes": 100,
+        "assignments": 5,
+        "instructor": "Ishiq Raiyan",
+        "description": "Graphic design is the art or profession of visual communication that combines images, words, and ideas to convey information to an audience, especially to produce a specific effect. In other words, graphic design is communication design; Its a way of conveying ideas through visuals and design. ",
+        "image": "https://mediablog.cdnpk.net/sites/9/2021/12/An-Introduction-To-Graphic-Design-Part-1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Web Development",
+        "class": "Saturday, Monday, Thursday",
+        "duration": "6 months",
+        "quizes": 160,
+        "assignments": 13,
+        "instructor": "Rahadul Hasan",
+        "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development.",
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png"
+    },
+    {
+        "id": 4,
+        "title": "Content Writting",
+        "class": "Saturday, Sunday, Monday",
+        "duration": "1.5 months",
+        "quizes": 90,
+        "assignments": 4,
+        "instructor": "Abid Mahmood",
+        "description": "Content writing is the process of planning, writing and editing web content, typically for digital marketing purposes. It can include writing blog posts and articles, scripts for videos and podcasts, as well as content for specific platforms, such as tweetstorms on Twitter or text posts on Reddit.",
+        "image": "https://www.joshtalks.com/joshkosh/wp-content/uploads/2018/12/Content-writer-1068x561.jpg"
+    },
+    {
+        "id": 5,
+        "title": "SEO",
+        "class": "Tuesday, Wednesday, Thursday",
+        "duration": "4 months",
+        "quizes": 150,
+        "assignments": 10,
+        "instructor": "Mahir Hassan",
+        "description": "SEO, or search engine optimization, is the process of optimizing websites so that they rank well on search engines through organic (non paid) searches. This is one of the most crucial marketing strategies for any business. Because Google aims to provide a positive user experience for its searchers, it wants to present the best possible information available. Therefore the focus of SEO efforts should be the process of making sure search engines recognize your content as the leading information on the web for a particular search query.",
+        "image": "https://statuslabs.com/wp-content/uploads/SEO-Pillar-Post-Art-.png"
+    },
+    {
+        "id": 6,
+        "title": "Website Design",
+        "class": "Saturday, Monday, Thursday",
+        "duration": "5 months",
+        "quizes": 150,
+        "assignments": 12,
+        "instructor": "Raiyan Islam",
+        "description": "Web design has come a long way since the first site was published in 1991. With over one billion live websites on the internet today, it’s no surprise that this industry is here to stay. Wix is home to thousands of website design professionals, enthusiasts, and designers who are empowering the industry to reach new heights. So, if you’re here to learn more about the world of web design, you have come to the right place.",
+        "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/01/which-web-design-platform-is-right-for-you-5e4d59fb941b9.png"
+    }
+]
