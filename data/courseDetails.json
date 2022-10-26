@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Digital Marketing",
-        "class": "Saturday, Sunday, Monday",
+        "classes": "Saturday, Sunday, Monday",
         "duration": "2 months",
         "quizes": 120,
         "assignments": 7,
@@ -13,7 +13,7 @@
     {
         "id": 2,
         "title": "Graphics Designing",
-        "class": "Tuesday, Wednesday, Thursday",
+        "classes": "Tuesday, Wednesday, Thursday",
         "duration": "3 months",
         "quizes": 100,
         "assignments": 5,
@@ -24,7 +24,7 @@
     {
         "id": 3,
         "title": "Web Development",
-        "class": "Saturday, Monday, Thursday",
+        "classes": "Saturday, Monday, Thursday",
         "duration": "6 months",
         "quizes": 160,
         "assignments": 13,
@@ -35,7 +35,7 @@
     {
         "id": 4,
         "title": "Content Writting",
-        "class": "Saturday, Sunday, Monday",
+        "classes": "Saturday, Sunday, Monday",
         "duration": "1.5 months",
         "quizes": 90,
         "assignments": 4,
@@ -46,7 +46,7 @@
     {
         "id": 5,
         "title": "SEO",
-        "class": "Tuesday, Wednesday, Thursday",
+        "classes": "Tuesday, Wednesday, Thursday",
         "duration": "4 months",
         "quizes": 150,
         "assignments": 10,
@@ -57,7 +57,7 @@
     {
         "id": 6,
         "title": "Website Design",
-        "class": "Saturday, Monday, Thursday",
+        "classes": "Saturday, Monday, Thursday",
         "duration": "5 months",
         "quizes": 150,
         "assignments": 12,
