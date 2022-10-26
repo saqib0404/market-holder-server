@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Marketing",
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_digital_marketing.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Graphics Designing",
+        "image": "https://mediablog.cdnpk.net/sites/9/2021/12/An-Introduction-To-Graphic-Design-Part-1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Web Development",
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png"
+    },
+    {
+        "id": 4,
+        "title": "Content Writting",
+        "image": "https://www.joshtalks.com/joshkosh/wp-content/uploads/2018/12/Content-writer-1068x561.jpg"
+    },
+    {
+        "id": 5,
+        "title": "SEO",
+        "image": "https://statuslabs.com/wp-content/uploads/SEO-Pillar-Post-Art-.png"
+    },
+    {
+        "id": 6,
+        "title": "Website Design",
+        "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/01/which-web-design-platform-is-right-for-you-5e4d59fb941b9.png"
+    }
+]
